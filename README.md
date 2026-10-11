@@ -39,7 +39,7 @@ Whether you are evaluating hyperscale enterprise SaaS suites (Salesforce Data Cl
   - [🔄 Data Ingestion & Integration Engines](#-data-ingestion--integration-engines)
 - [🎯 Key Architectural Components of a Real-Time CDP](#-key-architectural-components-of-a-real-time-cdp)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [💖 Support & Community](#-support--community)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
@@ -153,11 +153,16 @@ Contributions are welcome! Please follow these simple steps:
 
 ---
 
-## 💖 Support & Community
+## 💖 Support & Sponsorship
 
-- If you find this repository valuable, please consider giving it a star ⭐!
-- Join our community discussion on [Discord](https://discord.gg/jc4xtF58Ve) 💬.
-- Explore more curated developer collections at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) 🌐.
+Thank you so much for visiting and using this repository! If you find this Real-Time Customer Data Platform directory helpful in navigating your CDP architecture, evaluating vendors, or deploying self-hosted stacks:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it!
+- 🍴 **Fork** this repo to bookmark or customize it for your organization.
+- 📢 **Share** with your fellow data engineers, architects, and marketing technology teams!
+- ☕ **Buy me a coffee / Sponsor**: Support the ongoing curation and maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+- 💬 Join our community discussion on [Discord](https://discord.gg/jc4xtF58Ve).
+- 🌐 Explore more curated developer collections at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 
 ---
 
